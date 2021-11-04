@@ -1,0 +1,19 @@
+kapasitas Gelas A = 1000L
+kapasitas Gelas B = 700L
+kapasitas Gelas C = 300L
+kapasitas Gelas D = 100L
+gelas A, B, dan C diberi lubang tepat dibagian tepi tengah gelas dan diberi sedotan agar 
+air dapat mengalir ke gelas dibawahnya seperti pada gambar dibawah ini. Hitunglah berapa 
+liter air pada gelas D apabila gelas A dituangkan 1000L air !
+
+Jawab :
+V : Gelas yang terisi = Kapasitas / 2
+X : air yang dapat mengalir = air - V
+XA = 1000 - 1000/2 = 500
+XB = 500 - 700/2  = 150
+XC = 150 - 300/2 = 0
+XD = 0
+
+Dari gelas A mengalir sebanyak 500 liter ke gelas B,
+Dari gelas B mengalir sebanyak 150 liter ke gelas C,
+Dari gelas C mengalir sebanyak 0 liter ke gelas D,
